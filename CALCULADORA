@@ -1,0 +1,9 @@
+```python
+# Mi primera calculadora
+print("--- CALCULADORA DE SUMAS ---")
+num1 = input("Dime un número: ")
+num2 = input("Dime otro número: ")
+
+resultado = int(num1) + int(num2)
+
+print("La suma de tus números es: " + str(resultado))   
